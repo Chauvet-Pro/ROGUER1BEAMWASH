@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.241226 - Rogue R1 Beam Wash](https://github.com/Chauvet-Pro/ROGUER1BEAMWASH/blob/06452f770d26a5ceb2fc110ca1efb70ace15d0eb/Firmware/V1.241226.zip)
+- No new features or performance enhancements were added. This update is for internal use only
+
 [V1.231103 - Rogue R1 BeamWash](https://github.com/Chauvet-Pro/ROGUER1BEAMWASH/blob/58666960b45d89fa9f688d67426fcf95898ec3c1/Firmware/V1.231103.zip)
 - Fixed RDM issues
 
