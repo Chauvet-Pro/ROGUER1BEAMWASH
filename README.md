@@ -1,4 +1,4 @@
-# Rogue R1 BeamWash
+# Rogue R1 Beam Wash
 
 ## Software Versions
 
